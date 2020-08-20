@@ -20,12 +20,6 @@ public class PlayerCollision : MonoBehaviour
 
         }
 
-        if (collisionInfo.collider.tag == "Win")
-        {
-            Debug.Log("YOu won!");
-            movement.enabled = false;
-        }
-
 
     }
 }
