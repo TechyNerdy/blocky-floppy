@@ -6,4 +6,5 @@ Its a simple game, where player need to navigate their way throught the course!
 
 # Credit
 **Sean**
+and
 **Param**
